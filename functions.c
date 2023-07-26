@@ -5,8 +5,8 @@
 /**
  * print_char -This prints a char
  * @types: List a of arguments
- * @buffer: Buffer array to handle print
- * @flags: Calculates active flags
+ * @buffer: This is the buffer array to handle print
+ * @flags: this calculates active flags
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
