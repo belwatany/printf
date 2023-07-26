@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_size - This calculates the size to cast the agument
+ * get_size - This calculates the size to cast the argumen.
  * @format: The formatted string in which to print the arguments
  * @i: list of arguments to be printed.
  *
