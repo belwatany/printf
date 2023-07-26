@@ -2,7 +2,7 @@
 
 /**
  * get_precision - This calculates the precision for printing
- * @format: The Formatted string in which to print the arguments
+ * @format: The formatted string in which to print the arguments
  * @i: list of arguments to be printed.
  * @list: A list of arguments.
  *
